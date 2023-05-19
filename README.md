@@ -5,4 +5,4 @@ Journey and self developing Data Science experience!.
     This file will be beginner friendly, those who have just started with no strong background in programming.
     Please make sure you contributions fall into that category and thank y'all ***
     
-    print (your support makes a difference!)
+    print (Your support makes a difference!)
