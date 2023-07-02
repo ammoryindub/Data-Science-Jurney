@@ -8,4 +8,4 @@ Journey and self developing Data Science experience!.
     print (Your support makes a difference!)
     
     
-the '' file is associated with
+the 'students_performance.csv' file is associated with '01_project_dsp'
