@@ -15,9 +15,7 @@ the 'students_performance.csv' file is associated with '01_project_dsp'
 2. Importing dataset
 3. Load the dataset:
 4. Explore the dataset:
-Grouping and aggregating data: You can group the data based on one or more columns and perform aggregations on the numerical columns. For example, you can calculate the mean math, reading, and writing scores for each gender, parental level of education, or race/ethnicity group.
-
-6. Filtering data, and Creating new columns
+5. Filtering data, and Creating new columns
 You can filter the dataframe based on specific conditions. For instance, you can filter the data to only include students who scored above a certain threshold in math, reading, or writing.
 
 You can create new columns based on existing columns. For example, you can calculate the total score by summing up the math, reading, and writing scores. You can also create a categorical column to indicate whether a student passed or failed based on a certain score threshold.
