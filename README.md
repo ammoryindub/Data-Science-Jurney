@@ -13,9 +13,7 @@ the 'students_performance.csv' file is associated with '01_project_dsp'
 #### Steps followed :
 1. Importing libraries
 2. Importing dataset
-
-4. Load the dataset:
-Open the CSV file using Python and read its contents. Store the data in appropriate data structures (lists, dictionaries, etc.).
+3. Load the dataset:
 
 5. Explore the dataset:
 Grouping and aggregating data: You can group the data based on one or more columns and perform aggregations on the numerical columns. For example, you can calculate the mean math, reading, and writing scores for each gender, parental level of education, or race/ethnicity group.
