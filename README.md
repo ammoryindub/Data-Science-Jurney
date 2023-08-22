@@ -10,12 +10,14 @@ Journey and self-developing Data Science experience!.
     
 the 'students_performance.csv' file is associated with '01_project_dsp'
 
+
 #### Steps followed :
+
 1. Importing libraries
 2. Importing dataset
-3. Load the dataset:
-4. Explore the dataset:
+3. Load the dataset
+4. Explore the dataset
 5. Filtering data, and Creating new columns
-6. Visualizing the data:
-7. Analyzing relationships:
+6. Visualizing the data
+7. Analyzing relationships
 
