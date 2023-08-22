@@ -14,8 +14,7 @@ the 'students_performance.csv' file is associated with '01_project_dsp'
 1. Importing libraries
 2. Importing dataset
 3. Load the dataset:
-
-5. Explore the dataset:
+4. Explore the dataset:
 Grouping and aggregating data: You can group the data based on one or more columns and perform aggregations on the numerical columns. For example, you can calculate the mean math, reading, and writing scores for each gender, parental level of education, or race/ethnicity group.
 
 6. Filtering data, and Creating new columns
