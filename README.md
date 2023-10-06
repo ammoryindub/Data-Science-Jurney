@@ -12,7 +12,7 @@ the **'students_performance.csv'** file is associated with '01_project_dsp'
 
 the **'911.csv'** file is associated with '02_project_911calls'
 
-#### Steps followed :
+#### Steps followed in '01_project_dsp':
 
 1. Importing libraries
 2. Importing dataset
