@@ -1,5 +1,5 @@
 # MyDSJurney
-Journey and self-developing Data Science experience!. 
+Journey and self-developing Data Science experience! 
 
 *** Files for each learning stage will be uploaded in their own Jupyter Notebook file. 
     This file will be beginner-friendly friendly, those who have just started with no strong background in programming.
@@ -25,4 +25,4 @@ the **'911.csv'** file is associated with '02_project_911calls'
 
 #### Steps followed in '02_project_911calls':
 1. Data and Setup
-2. he highst 5 zipcodes calling 911
+2. he highest 5 zipcodes calling 911
