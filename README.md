@@ -1,4 +1,4 @@
-# MyDSJurney
+# Data Science Jurney
 Journey and self-developing Data Science experience! 
 
 *** Files for each learning stage will be uploaded in their own Jupyter Notebook file. 
