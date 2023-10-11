@@ -27,3 +27,4 @@ the **'911.csv'** file is associated with '02_project_911calls'
 1. Data and Setup
 2. the highest 5 zipcodes calling 911
 3. the highest towns (twp) calling 911
+4. unique values
